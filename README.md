@@ -158,18 +158,3 @@ ok 1 - Connectly Backend Test Suite
 
 ---
 
-## 6. Pre-Seeded Demo Accounts
-
-For instant testing, use the **1-Click Test Accounts** switcher on the login screen or navigation bar:
-
-| User ID | Name | Role | Email | Password |
-| :--- | :--- | :--- | :--- | :--- |
-| `USR-1042` | Alex Rivera | Full-stack Engineer | `alex@connectly.dev` | `Password123!` |
-| `USR-2087` | Sarah Chen | Product Lead | `sarah@connectly.dev` | `Password123!` |
-| `USR-3156` | Marcus Vance | Security Architect | `marcus@connectly.dev` | `Password123!` |
-| `USR-4920` | Elena Rostova | Distributed Engineer | `elena@connectly.dev` | `Password123!` |
-
-### Pre-Seeded Rooms:
-- `ROOM-1010` — **Engineering Hub** (Public, Open membership)
-- `ROOM-2020` — **Design System Lab** (Invite-Only, Code: `dsgn8899`)
-- `ROOM-3030` — **Product Announcements** (Public, Admins-only posting policy)
