@@ -1,0 +1,6 @@
+{
+  "name": "Connectly",
+  "description": "Real-Time Messaging & Permission-Controlled Chat Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
